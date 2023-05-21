@@ -15,7 +15,7 @@
 
 <!--- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa-->
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🧠 I'm currently learning web devolpment.
+- 🧠 I'm currently learning web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin Profile https://www.linkedin.com/in/emad-mahmoud-aa0339211/
 
