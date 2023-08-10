@@ -39,8 +39,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EMADMAHMOUD20&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMADMAHMOUD20&layout=compact)
+<br> 
 <a href="https://komarev.com/ghpvc/?username=EMADMAHMOUD20&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=EMADMAHMOUD20&style=for-the-badge">
 </a>
