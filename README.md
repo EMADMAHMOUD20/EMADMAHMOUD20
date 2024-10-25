@@ -14,8 +14,7 @@
 </p> 
 
 <!--- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa-->
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🧠 I'm currently learning web development.
+- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my Linkedin Profile https://www.linkedin.com/in/emad-mahmoud-aa0339211/
 
@@ -42,7 +41,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMADMAHMOUD20&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMADMAHMOUD20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMADMAHMOUD20&layout=compact) 
 <br> 
 <a href="https://komarev.com/ghpvc/?username=EMADMAHMOUD20&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=EMADMAHMOUD20&style=for-the-badge">
